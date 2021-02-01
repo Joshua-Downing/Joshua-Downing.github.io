@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0 " >
     <meta >
-    <title>Document</title>
+    <title>Joshua-Downing.github.io</title>
 
     <link rel="stylesheet" href="include/css/style.css">
 </head>
